@@ -1,0 +1,25 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "React Notes"
+
+theme = "hugo-theme-learn"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+  custom_css = ["css/style.css"]
+
+  themeVariant = "mine"
+
+  author = "Byul Kim"
+
+  description = "React notes for Sky"
+
+  showVisitedLinks = false
+
+  # Set this to true to disable copy-to-clipboard button for inline code.
+  disableInlineCopyToClipBoard = true
+
+  landingPageURL = "/"
+  landingPageName = "<i class='fas fa-home'></i> React"
