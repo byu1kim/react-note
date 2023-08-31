@@ -14,3 +14,8 @@
 - Global Statement (Context)
 - Redux
 - Deploy
+
+#### Byul To do
+
+- state, prop
+- tech seo research
