@@ -9,6 +9,8 @@ pre = "<i class='fas fa-book-open'></i> &nbsp"
 +++
 ```
 
+https://learn.netlify.app/en/
+
 # Heading
 
 ## H1
